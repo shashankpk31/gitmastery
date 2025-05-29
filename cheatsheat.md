@@ -116,3 +116,6 @@ ers. Discounts available for other educational uses.
  pattern*/
  Save a file with desired patterns as .gitignore with either direct string 
 matches or wildcard globs.
+
+
+This is some randome changes which will be staged
